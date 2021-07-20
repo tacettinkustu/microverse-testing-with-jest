@@ -4,7 +4,7 @@ In this repo, I wrote a few practical tests for JavaScript functions using the J
 
 The repo was created using JavaScript (ES6) and Jest to meet the requirements defined within the scope of the Microverse Testing Activity.
 
-![Jest Icon](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40ahmetbcakici%2Fnodejs-uygulamalar%25C4%25B1n%25C4%25B1-jest-kullanarak-test-etmek-98a429df6e80&psig=AOvVaw2Hp020WzqlC2T2BtS9A0fm&ust=1626900566370000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCEuYTD8vECFQAAAAAdAAAAABAJ)
+![Jest Icon](https://miro.medium.com/max/796/0*C_gAa3GCE5D2YI-W.png)
 
 
 It is built as a part of Microverse Web Developer Course. 
